@@ -10,6 +10,7 @@
  	
  	E-mail: <input type="text" name="email">
    	<p> hello world </p>
+	Address : <input type="text" name="address">
    <input type = "submit" name = "submit" value = "Submit">
  	</form>
  </body>
